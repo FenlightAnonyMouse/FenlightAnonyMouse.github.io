@@ -1,5 +1,6 @@
+[COLOR red][B]Version 2.1.01[/B][/COLOR]
 - Adjusted Trakt token refresh to 24 hours.
 - Added "Personal Lists" to My Lists. Here you can make personal lists that can be used on this instance of Fen Light. Movies or TV Shows supported.
 - Added Settings->Content->Context Menu->"Context Menu Order" to change the order of Context Menu items for media displayed by Fen Light. Idea from Kodifitzwell.
 - Added more flexibility for using external sources modules.
-- Large refactoring of code using ideas from Fen & Fen Light forks. Thanks to those pushing forward.
+- Large refactoring of code.
