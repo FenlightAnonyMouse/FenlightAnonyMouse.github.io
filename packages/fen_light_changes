@@ -1,3 +1,6 @@
+[COLOR dodgerblue][B]Version 2.1.09[/B][/COLOR]
+- Quick fix for incorrect detection of current skin name and font type.
+
 [COLOR dodgerblue][B]Version 2.1.08[/B][/COLOR]
 - Quick fix for navigation lists not loading on new installs.
 
