@@ -1,3 +1,6 @@
+[COLOR red][B]Version 2.1.07[/B][/COLOR]
+- Quick fix for Movie sets and "More Like this" list.
+
 [COLOR red][B]Version 2.1.01/02/03/04/05/06[/B][/COLOR]
 - Adjusted Trakt token refresh to 24 hours.
 - Added "Personal Lists" to My Lists. Here you can make personal lists that can be used on this instance of Fen Light. Movies or TV Shows supported.
