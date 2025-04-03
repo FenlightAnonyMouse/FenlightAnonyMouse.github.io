@@ -1,16 +1,4 @@
-[COLOR dodgerblue][B]Version 2.1.09[/B][/COLOR]
-- Quick fix for incorrect detection of current skin name and font type.
+[COLOR red][B]Version 2.1.10[B][COLOR]
+- [REQUEST] Added ability for Fen Light to remember your reuselanguageinvoker state when updating.
+- [REQUEST] Added RPDb (Rating Posters) support. Enter your API in Settings-Accounts, then clear the meta cache. Apologies to Fitzwell. I wasn't going to add this but it was requested and was too easy in the end with no API call needed.
 
-[COLOR dodgerblue][B]Version 2.1.08[/B][/COLOR]
-- Quick fix for navigation lists not loading on new installs.
-
-[COLOR red][B]Version 2.1.07[/B][/COLOR]
-- Quick fix for Movie sets and "More Like this" list.
-
-[COLOR red][B]Version 2.1.01/02/03/04/05/06[/B][/COLOR]
-- Adjusted Trakt token refresh to 24 hours.
-- Added "Personal Lists" to My Lists. Here you can make personal lists that can be used on this instance of Fen Light. Movies or TV Shows supported.
-- Added Settings->Content->Context Menu->"Context Menu Order" to change the order of Context Menu items for media displayed by Fen Light. Idea from Kodifitzwell.
-- Added more flexibility for using external sources modules.
-- Fixed Log file uploader.
-- Large refactoring of code.
