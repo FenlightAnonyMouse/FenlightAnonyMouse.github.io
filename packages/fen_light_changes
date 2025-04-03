@@ -1,4 +1,5 @@
-[COLOR red][B]Version 2.1.10[B][COLOR]
-- [REQUEST] Added ability for Fen Light to remember your reuselanguageinvoker state when updating.
-- [REQUEST] Added RPDb (Rating Posters) support. Enter your API in Settings-Accounts, then clear the meta cache. Apologies to Fitzwell. I wasn't going to add this but it was requested and was too easy in the end with no API call needed.
+[COLOR red][B]Version 2.1.11[/B][/COLOR]
+- [BUG] Fix some random menus.
+- [BUG] Fix info window for scrape results.
+- Finished most code refactoring.
 
