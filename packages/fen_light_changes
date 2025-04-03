@@ -1,5 +1,6 @@
-[COLOR red][B]Version 2.1.11[/B][/COLOR]
-- [BUG] Fix some random menus.
-- [BUG] Fix info window for scrape results.
+[COLOR red][B]Version 2.1.11/12[/B][/COLOR]
+- [BUG] Fixed some random menus.
+- [BUG] Fixed info window for scrape results.
+- [BUG] Fixed Watchlist not showing for Next Episodes.
 - Finished most code refactoring.
 
