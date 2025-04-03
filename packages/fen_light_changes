@@ -2,5 +2,5 @@
 - [BUG] Fixed some random menus.
 - [BUG] Fixed info window for scrape results.
 - [BUG] Fixed Watchlist not showing for Next Episodes.
-- Finished most code refactoring.
+- [CODE] Finished most code refactoring.
 
