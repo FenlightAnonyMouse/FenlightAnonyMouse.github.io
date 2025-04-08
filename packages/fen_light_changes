@@ -1,6 +1,3 @@
-[COLOR red][B]Version 2.1.11/12[/B][/COLOR]
-- [BUG] Fixed some random menus.
-- [BUG] Fixed info window for scrape results.
-- [BUG] Fixed Watchlist not showing for Next Episodes.
-- [CODE] Finished most code refactoring.
+[COLOR red][B]Version 2.1.13[/B][/COLOR]
+- [BUGS] Couple of quick fixes for Person search in IvanBrandt's skins and cache cleaning.
 
