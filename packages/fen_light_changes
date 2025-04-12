@@ -1,9 +1,5 @@
-[COLOR red][B]Version 2.1.14[/B][/COLOR]
-- [REQUEST] Added TMDb Lists to "My Lists". Authenticate your TMDb account in Settings->Accounts->TMDb Lists to access your lists. Lists will respect paginate settings. There is also a "TMDb Lists Manager" in the context menu for Movies and TV Shows. You will need to restore the context menu to default to start seeing it.
-- [REQUEST] Importing into TMDb Lists a Trakt Collection/Watchlist/Personal List is possible. Importing a Liked List is NOT possible, so as to avoid abuse of TMDb's lists service. Imports will respect current sorting settings. This will NOT "link" your Trakt list to the TMDb list, it will import a "snapshot" of the list in it's current state. There is a 450 item limit on Trakt List imports. Any extra over that figure will be iggnored. Please keep the TMDb lists within reason.
-- [FEATURE] Importing a Trakt List to Personal Lists or TMDb Lists will now include a prompt to rename that list to the Trakt List's name.
-- [FEATURE] Switched to Trakt's "Dropped" reporting. Dropped shows will be filtered out of Trakt Calendar as well as Next Episodes. Users are encouraged to migrate their hidden shows to dropped through the Trakt website.
-- [FEATURE] Converted all appropriate account auths to use dynamic QRCodes. Account auths now support QRCodes, tiny urls and copying to clipboard when possible.
-- [CODE] Moved enabling RPDB (Ratings) posters out of Accounts and into the Contents->General settings tab. It will appear when a valid API Key is inserted in the Account settings.
+[COLOR red][B]Version 2.1.15[/B][/COLOR]
+- [BUG] Code fixes for TMDb Lists and new "dropped" Trakt implementation. Thanks Tikipeter.
+- [FEATURE] Added ability to directly import a Trakt list whilst making a new TMDb or Personal list. Removes one step in the process. Thanks Tikipeter.
 - Other changes/fixes.
 
