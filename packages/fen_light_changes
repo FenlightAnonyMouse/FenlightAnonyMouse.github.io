@@ -1,5 +1,5 @@
-[COLOR red][B]Version 2.1.15[/B][/COLOR]
-- [BUG] Code fixes for TMDb Lists and new "dropped" Trakt implementation. Thanks Tikipeter.
-- [FEATURE] Added ability to directly import a Trakt list whilst making a new TMDb or Personal list. Removes one step in the process. Thanks Tikipeter.
+[COLOR red][B]Version 2.1.16[/B][/COLOR]
+- Some changes to Trakt Sync and refresh token code.
+- Some tweaks to TMDb and Personal Lists.
 - Other changes/fixes.
 
