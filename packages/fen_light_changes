@@ -1,3 +1,8 @@
-[COLOR red][B]Version 2.1.18[/B][/COLOR]
-- [BUG] Quick fix for Internal Sources.
+[COLOR red][B]Version 2.1.19[/B][/COLOR]
+- [REQUEST] Added "Refresh Widgets" and "Reload Widgets" to the context menu editor (Settings->Content->Context Menu). This means if you want to use these 2 context menu items (they appear on widgets only) then you will need to restore the context menu to default through the above setting to regain access to them.
+- [REQUEST] Made "Add to Watchlist", "Remove from Watchlist", "Add to Collection", "Remove from Collection" more accessible from the Trakt Manager (one level higher).
+- [REQUEST] Added warning for Context menu items in Personal Lists and TMDb Lists that will alter the contents of the list if selected e.g. "Import Trakt List".
+- [BUG] Fixed Episode Groups.
+- [BUG] Fixed incorrect occasional refreshing of container after episode playback. May fix a couple of niggling issues.
+- [CODE] Converted all online images to within addon. This could cause issues. Please report on Github if any found.
 
