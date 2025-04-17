@@ -1,3 +1,6 @@
-[COLOR red][B]Version 2.1.20[/B][/COLOR]
+[COLOR red][B]Version 2.1.21[/B][/COLOR]
 - [BUG] Quick fix for addon constantly re-caching empty dropped item results from Trakt.
+- [REQUEST] Added Trakt Auth code to display when Authorizing Trakt.
+- [CODE] Added support for TMDb and Personal Lists to Random Shortcut Folder.
+- Other fixes.
 
