@@ -1,6 +1,5 @@
-[COLOR red][B]Version 2.1.21[/B][/COLOR]
-- [BUG] Quick fix for addon constantly re-caching empty dropped item results from Trakt.
-- [REQUEST] Added Trakt Auth code to display when Authorizing Trakt.
-- [CODE] Added support for TMDb and Personal Lists to Random Shortcut Folder.
-- Other fixes.
+[COLOR red][B]Version 2.1.22[/B][/COLOR]
+- [REQUEST] Added custom poster/fanart for Personal Lists. This means for the list itself. Found within the "Edit Properties" context menu item.
+- [CODE] A fair few fixes for small bugs throughout addon.
+- [CODE] More code refactoring.
 
