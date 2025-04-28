@@ -1,5 +1,4 @@
-[COLOR red][B]Version 2.1.22[/B][/COLOR]
-- [REQUEST] Added custom poster/fanart for Personal Lists. This means for the list itself. Found within the "Edit Properties" context menu item.
-- [CODE] A fair few fixes for small bugs throughout addon.
-- [CODE] More code refactoring.
-
+[COLOR red][B]Version 2.1.23[/B][/COLOR]
+- [REQUEST] Added custom artwork to TMDb User Lists.
+- [REQUEST] Added ability to use 4 random posters/fanart from items in list when making custom artwork for the list.
+- Other changes/fixes.
