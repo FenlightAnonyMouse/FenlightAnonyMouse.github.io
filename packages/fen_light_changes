@@ -1,2 +1,3 @@
-[COLOR red][B]Version 2.1.24[/B][/COLOR]
-[BUG] Various fixes.
+[COLOR red][B]Version 2.1.25[/B][/COLOR]
+- Quick fix for media tagged with 5.1 audio being recognized as a file for S05E01.
+- Other changes/fixes.
