@@ -1,10 +1,5 @@
-[COLOR red][B]Version 2.1.29[/B][/COLOR]
-- Added "Check for cached status of Results (RD & AD)" to Settings->Accounts->External Scrapers. Enabled by default. Enable this and Fen Light will attempt to determine the cached status of external results for Real Debrid and all Debrid. This is by no means fully accurate, and you will likely often receive less overall results than with this disabled. But if using it, all results shown are likely cached on their servers and can be played immediately (removes the "Unchecked" parameter for RD and AD results).
-- Added "Toggle External Cache Check" to Playback Options so you can more easily enable or disable the new cache check.
-- Added "Assign Addon Icon Image" to Settings->General->General. Use this to choose from the available addon icons shipped with Fen Light AM.
-[COLOR darkgoldenrod]Big thanks to user [B]"mgudarzi"[/B] for providing some great icons.[/COLOR] Hop on to my github if you want to have icons included. Please make them 512x512, and small in filesize (50kb or less).
-- Added sort ability to TMDb List content (content within your personal lists from TMDb). Access through Context Menu->Edit Properties->Change Sort Order when in the TMDb Lists menu.
-- Added sort ability to TMDb Lists (your personal lists from TMDb). Access in Settings->Accounts->TMDb Lists->Lists Display Sort Order.
-- Changed "Custom Autoplay Sort To Top" to "Custom Sort To Top". This setting will now apply to non-autoplay results as well if chosen. These will need to be re-set.
-- Simplified random widgets caching.
-- Reworked custom context menu editing. You can now re-add a removed item without having to restore the context menu to default.
+[COLOR red][B]Version 2.1.30[/B][/COLOR]
+- There are now 2 easily accessible methods to toggle the state of check cache status (RD & AD) and rescrape. Either through the Playback Options context menu item or through the results sideblade.
+- Fixed "random" not working as a sort for self made Discover lists.
+- Other quick fixes.
+
