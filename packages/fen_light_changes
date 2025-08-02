@@ -1,5 +1,3 @@
-[COLOR red][B]Version 2.1.30[/B][/COLOR]
-- There are now 2 easily accessible methods to toggle the state of check cache status (RD & AD) and rescrape. Either through the Playback Options context menu item or through the results sideblade.
-- Fixed "random" not working as a sort for self made Discover lists.
-- Other quick fixes.
+[COLOR red][B]Version 2.1.31[/B][/COLOR]
+- Added "Retry With Cache Check Ignored When No Results" to Settings->Results->General. If set to "Auto", then if there are no cached RD/AD results it will automatically show all results as Unchecked.
 
