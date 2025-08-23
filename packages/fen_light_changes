@@ -1,3 +1,7 @@
-[COLOR red][B]Version 2.1.31[/B][/COLOR]
-- Added "Retry With Cache Check Ignored When No Results" to Settings->Results->General. If set to "Auto", then if there are no cached RD/AD results it will automatically show all results as Unchecked.
+[COLOR red][B]Version 2.1.32[/B][/COLOR]
+- Added support for importing lists from external sources to Personal Lists.
+- Added Settings->Playback->Movies->Show Credits Stinger Alert. Enable this and Fen Light will alert you, towards the end of playback, as to whether there are During and/or After Credit Stingers to watch.
+- Added Settings->Contents->General->Ignore Articles when Sorting Lists.
+- Added ability to delete RD Cloud files directly from results (in context menu).
+- Other changes/fixes.
 
