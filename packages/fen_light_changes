@@ -1,7 +1,3 @@
-[COLOR red][B]Version 2.1.32[/B][/COLOR]
-- Added support for importing lists from external sources to Personal Lists.
-- Added Settings->Playback->Movies->Show Credits Stinger Alert. Enable this and Fen Light will alert you, towards the end of playback, as to whether there are During and/or After Credit Stingers to watch.
-- Added Settings->Contents->General->Ignore Articles when Sorting Lists.
-- Added ability to delete RD Cloud files directly from results (in context menu).
-- Other changes/fixes.
+[COLOR red][B]Version 2.1.33[/B][/COLOR]
+- Fix for personal lists not showing after recent re-write.
 
