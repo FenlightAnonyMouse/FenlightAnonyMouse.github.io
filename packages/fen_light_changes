@@ -1,3 +1,8 @@
-[COLOR red][B]Version 2.1.35[/B][/COLOR]
-- Quick fixes.
+[COLOR red][B]Version 2.1.36[/B][/COLOR]
+[COLOR darkgoldenrod]Thanks for the nice Easynews playback workaround find [B]Kodifitzwell[/B].[/COLOR]
+- Added Settings->Playback->Playback Utilities->"Easynews Playback Method". Use this to set a playback method to resolve Easynews links...
+NONE: No special method used.
+RETRY: Retries the EN link if it fails the first time (slow and doesn't work on some hardware).
+NO SEEK: Tells Kodi the file is not seekable, which makes EN happy. The file will usually play first try and quickly, but you will not be able to seek forward/backward outside of the current cached data.
+BOTH: Will use NO SEEK, and will also allow for RETRY. Probably not needed for most setups. But this covers all.
 
