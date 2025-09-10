@@ -1,8 +1,4 @@
-[COLOR red][B]Version 2.1.37[/B][/COLOR]
-- Included episodes when considering hide watched items for widgets.
-- Added "Autoplay Cloud Result" to each account's settings. Enable this and any cloud result found after a prescrape will be automatically played.
-- Added "Avoid Episode Spoilers in Custom Windows" to Settings->Content->General. This will hide plot and thumb spoilers from FenLightAM's custom windows.
-- Added "Retry With IMDb Year Data When No Results" to Settings->Results->General.
-- Other changes/fixes.
+[COLOR red][B]Version 2.1.38[/B][/COLOR]
+- Quick fixes for Autoplay Cloud Sources.
 
 
