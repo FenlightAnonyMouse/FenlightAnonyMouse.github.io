@@ -1,6 +1,9 @@
-[COLOR red][B]Version 2.1.39[/B][/COLOR]
-- Icon choice will persist through custom windows.
-- Fixed In Progress Episodes not displaying when sort set to title.
-- Other changes/fixes.
+[COLOR red][B]Version 2.1.40[/B][/COLOR]
+- Added Anime Watched, Anime Recently Watched, Anime In Progress, Anime Recently Watched Episodes, Anime In Progress Episodes & Anime Next Episodes' to the Anime section. From now, Anime will be more sectioned off into the 'Anime' section of the addon. This means watched status lists for anime will only appear in this new menu, not the 'TV Shows' instance of watched status lists. To access these new menu items, navigate to the Anime section and, from the context menu, select 'Restore Menu', which will restore the menu to default and add the new menu items.
+- Added "Limit Results Per Quality" to Settings->Results->Sorting & Filtering. Set a value on this, and Fen Light will limit the results shown for each quality (4K, 1080p etc) to that value.
+- Added "Limit Results Total" to Settings->Results->Sorting & Filtering. Set a value on this, and Fen Light will limit the total results shown.
+- Added "Language" to Discover menu for Movies and TV Shows. Set the original language for the content you want.
+- Added Custom Poster and Custom Fanart for Trakt My User Lists and Trakt Liked User Lists. Options found in the context menu.
+- Fix for "finish watching at..." time reporting to show accurate data when there is a resume point on the media. For skins that show this info.
 
 
