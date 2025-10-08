@@ -1,8 +1,6 @@
-[COLOR red][B]Version 2.1.41[/B][/COLOR]
-- Added "Anime" as a Search menu. Only anime results will appear. Similarly, the regular "TV Show" search menu will now exclude anime results.
-- Added "Anime" as a Favorites menu. Only anime results will appear. Similarly, the regular "TV Show" favorites menu will now exclude anime results.
-- Added Vietnamese to language options.
-- Added "Use Weighted Value for Size Sorting" to Settings->Results->Sorting and Filtering. Enable this and Fen Light will weight HEVC file sizes as being equal to 2x a non-HEVC file size for purposes of sorting (not filtering).
+[COLOR red][B]Version 2.1.42[/B][/COLOR]
+- Fixed art from TMDb.
+- Added "Auto Enable Subtitles" to Settings->Playback-?Playback Utilities. If subtitles are included in the file, Fen Light will enable them.
 - Other changes/fixes.
 
 
