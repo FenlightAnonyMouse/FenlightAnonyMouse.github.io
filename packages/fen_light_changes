@@ -1,8 +1,6 @@
-[COLOR red][B]Version 2.1.45[/B][/COLOR]
-- Added "TV Show & Anime" to Search menu. Here you can search and include all series, both regular and anime. Uses `tmdb_tv_search` action, so skin intergration should be fixed for skins that support custom search queries.
-- Added "Include anime in tv show watched progress" to Content->General. Enable this and your anime watched progress will also appear in the regular tv show progress menus.
-- Added External Scrapers filter to settings. On by default.
-- Re-fixed art from TMDb.
+[COLOR red][B]Version 2.1.46[/B][/COLOR]
+- Added alternate url for RD users who are suffering from the main url being blocked. Go to Accounts->Real Debrid->"Use Alternate URL". Thanks to [COLOR darkgoldenrod]Umbrella Dev[/COLOR] for the alternate url.
+- Fixed Trakt user lists search.
 - Other changes/fixes.
 
 
