@@ -1,6 +1,5 @@
-[COLOR red][B]Version 2.1.46[/B][/COLOR]
-- Added alternate url for RD users who are suffering from the main url being blocked. Go to Accounts->Real Debrid->"Use Alternate URL". Thanks to [COLOR darkgoldenrod]Umbrella Dev[/COLOR] for the alternate url.
-- Fixed Trakt user lists search.
+[COLOR red][B]Version 2.1.47[/B][/COLOR]
+- Fixed All Debrid resolving, matching new API output.
 - Other changes/fixes.
 
 
