@@ -1,6 +1,6 @@
-[COLOR red][B]Version 2.1.49/50/51[/B][/COLOR]
-- Tweaked some generic list params.
-- Removed some icons from addon.
+[COLOR red][B]Version 2.1.52[/B][/COLOR]
+- Fixed Trakt lists.
+- Added detection for external playback.
 - Other changes/fixes.
 
 
