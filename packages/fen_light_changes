@@ -1,4 +1,5 @@
 [COLOR red][B]Version 2.1.58[/B][/COLOR]
-- Defeat.
+- Band-aid fix for Trending/Trending Recent showing only anime results. Will stay until Trakt fix ther filtering for this endpoint. Clear Lists Cache in Tools->Database & Cache Maintenance for this to take effect immediately.
+- Other changes/fixes.
 
 
