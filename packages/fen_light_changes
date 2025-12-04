@@ -1,5 +1,6 @@
 [COLOR red][B]Version 2.1.58[/B][/COLOR]
-- Band-aid fix for Trending/Trending Recent showing only anime results. Will stay until Trakt fix ther filtering for this endpoint. Clear Lists Cache in Tools->Database & Cache Maintenance for this to take effect immediately.
+- Added "History" and "Saved Links" to both Alldebrid Cloud search and also My Services->Alldebrid. [COLOR darkgoldenrod]Thanks to user monpaf[/COLOR].
+- Added Settings->Content->General->Use Season Names When Available.
 - Other changes/fixes.
 
 
