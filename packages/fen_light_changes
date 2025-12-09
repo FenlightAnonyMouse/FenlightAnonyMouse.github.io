@@ -1,6 +1,5 @@
 [COLOR red][B]Version 2.1.58[/B][/COLOR]
-- Added "History" and "Saved Links" to both Alldebrid Cloud search and also My Services->Alldebrid. [COLOR darkgoldenrod]Thanks to user monpaf[/COLOR].
-- Added Settings->Content->General->Use Season Names When Available.
+- Added "Browse Seasons", "Browse Episodes" & "Unmark Previous Watched" to context menu of single episode lists. As a result, anyone with a custom context menu will need to remake it.
 - Other changes/fixes.
 
 
