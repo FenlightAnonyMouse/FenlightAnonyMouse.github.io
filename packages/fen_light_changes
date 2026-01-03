@@ -1,8 +1,4 @@
-[COLOR red][B]Version 2.1.62/63[/B][/COLOR]
-- Added Google AI and Groq AI to Meta Accounts settings. Use your API keys here, and you can currently use this AI for Similar titles recommended by the AI. Found in context menu for Movies and TV Shows, and also in the Extras window. Access settings for the similars in Features->AI Generated Similar Titles.
-[COLOR darkgoldenrod]Big thanks to user hcgiub001 for all the help and code examples, and Tikipeter for the re-write and implementation.[/COLOR]
-- Added Settings->Content->General->"Generic Lists Cache Duration". Set here how long you want generic lists ike Popular or Trending to be cached before fresh data is fetched. Default is 24 hours.
-- Quick fix for Discover.
-- Other changes/fixes.
+[COLOR red][B]Version 2.1.64[/B][/COLOR]
+- Added block for unsupported external players.
 
 
