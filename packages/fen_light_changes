@@ -1,6 +1,5 @@
-[COLOR red][B]Version 2.1.66[/B][/COLOR]
-- Fixed All Debrid again.
-- Switched to using list_id where possible for trakt lists, rather than user/slug. [COLOR darkgoldenrod]Thanks to user monpaf for the heads up and example code.[/COLOR]
+[COLOR red][B]Version 2.1.67[/B][/COLOR]
+- Fixed random list dynamic titles.
 - Other changes/fixes.
 
 
