@@ -1,4 +1,4 @@
-[COLOR red][B]Version 2.1.74[/B][/COLOR]
+[COLOR red][B]Version 2.1.74/75[/B][/COLOR]
 - Added "Set Custom Sort" to context menu of Trakt "My Lists" and Trakt "Liked Lists". Here you can set a custom sort order to be used for the list, independent of what you have set on the Trakt webpage. If no custom value is set for a list, then the sort values from Trakt will be used.
 - Other changes/fixes.
 
