@@ -1,5 +1,5 @@
-[COLOR red][B]Version 2.1.78[/B][/COLOR]
-- Added "Enable Jump To Navigation" to Settings->Content->General. This adds a "Jump To..." list item to paginated personal lists that allows you to quickly navigate to a specific page within the list. Old Fen feature re-added.
+[COLOR red][B]Version 2.1.79[/B][/COLOR]
+- Fixed Random Trakt User lists contents.
 - Other changes/fixes.
 
 
