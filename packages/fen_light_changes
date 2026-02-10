@@ -1,4 +1,5 @@
-[COLOR red][B]Version 2.1.82[/B][/COLOR]
-- Some quick fixes.
+[COLOR red][B]Version 2.1.83[/B][/COLOR]
+- Changed Setting->Content->General->"Avoid Episode Spoilers in Custom Windows" to "Avoid Episode Spoilers". This will apply throughout the addon now.
+- Removed "Exit" from the Jump To.. options. Also focus will now go to the current page in the list.
 
 
