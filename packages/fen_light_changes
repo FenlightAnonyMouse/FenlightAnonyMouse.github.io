@@ -1,5 +1,5 @@
-[COLOR red][B]Version 2.1.83[/B][/COLOR]
-- Changed Setting->Content->General->"Avoid Episode Spoilers in Custom Windows" to "Avoid Episode Spoilers". This will apply throughout the addon now.
-- Removed "Exit" from the Jump To.. options. Also focus will now go to the current page in the list.
+[COLOR red][B]Version 2.1.84[/B][/COLOR]
+- Added "Check Still Watching After?" to Settings->Playback->Autoplay Next Episode. Set here how many consecutively auto played episodes before Fen Light checks that you are still watching. Defaults to 3 episodes. Choose 0 episodes to disable.
+- Other changes/fixes.
 
 
