@@ -1,5 +1,5 @@
-[COLOR red][B]Version 2.1.84[/B][/COLOR]
-- Added "Check Still Watching After?" to Settings->Playback->Autoplay Next Episode. Set here how many consecutively auto played episodes before Fen Light checks that you are still watching. Defaults to 3 episodes. Choose 0 episodes to disable.
+[COLOR red][B]Version 2.1.85[/B][/COLOR]
+- Added "Browse Similar to Movie/TV Show context menus. Also added to Extras window. As a result, the preferences for each of these is re-set for this update. Apologies. Also added as a feeder option for "Because You Watched..."
 - Other changes/fixes.
 
 
