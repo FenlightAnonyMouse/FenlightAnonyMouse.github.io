@@ -1,5 +1,7 @@
-[COLOR red][B]Version 2.1.85[/B][/COLOR]
-- Added "Browse Similar to Movie/TV Show context menus. Also added to Extras window. As a result, the preferences for each of these is re-set for this update. Apologies. Also added as a feeder option for "Because You Watched..."
+[COLOR red][B]Version 2.1.86[/B][/COLOR]
+- Added setting to filter uncached results by number of seeders.
+- Added "Confirm Before Autoscrape?" to autoscrape settings.
+- Small cosmetic changes to Extras and People custom wnidows.
 - Other changes/fixes.
 
 
