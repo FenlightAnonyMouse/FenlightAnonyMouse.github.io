@@ -1,7 +1,8 @@
-[COLOR red][B]Version 2.1.86[/B][/COLOR]
-- Added setting to filter uncached results by number of seeders.
-- Added "Confirm Before Autoscrape?" to autoscrape settings.
-- Small cosmetic changes to Extras and People custom wnidows.
-- Other changes/fixes.
+[COLOR red][B]Version 2.1.87[/B][/COLOR]
+- Fixes for Trakt API changes. You may need to Clear Trakt Cache (Tools->Database & Cache Maintenance).I will not be relying on Trakt to perform the pagination, so your lists will display a maximum of 999 items. If you have a list/s with more than 999 items, reach out to me and I can get you some needed help.
+- Added Settings->General->Window Theme->"Assign Window Theme". Here you can choose between Light, Medium and Dark for the grey of custom Fen Light dialogs and windows.
+- Added Settings->General->Window Theme->"Assign Window Theme Opacity". Here you can choose the Opacity of the window theme. Extras, Person & Scrape Result Windows are affected). Choose between 50% - 100% in 5% increments.
+- Added Settings->Features->Extras->->Enable Extra Ratings->"Enabled Ratings" submenu. Here you can enable/disable the ratings displayed on the Extras window. If you only select one rating to display, it will show within the top lines below the clearlogo/title.
+- Added ability to prioritize (for order of use) the 5 rescrape settings in Results->Rescrape (formerly titled "General"). Also, the rescrape settings here wil need to be re-set. Apologies.
 
 
