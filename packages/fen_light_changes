@@ -1,6 +1,7 @@
-[COLOR red][B]Version 2.1.88[/B][/COLOR]
-- Fixed TMDb lists issue.
-- Made cosmetic adjustments to Extras window.
-- Couple of other quick fixes.
+[COLOR red][B]Version 2.1.89[/B][/COLOR]
+- Moved "RPDb Ratings Posters" settings to "Features" tab.
+- Added Settings->Features->Extras->"Enable Poster Ratings (RPDb) for Extras Lists". Enable this and Fen Light will use rating posters for all the lists within the Extras window. This is seperate from the ratings displayed at the top of the window, which are supplied by OMDb.
+- Added this year's Oscar winner to Oscar Winners.
+- Other changes/fixes.
 
 
