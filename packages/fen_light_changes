@@ -1,6 +1,5 @@
-[COLOR red][B]Version 2.1.90[/B][/COLOR]
-- Added TMDb 'Watchlists', 'Favorites' & 'Recommended' to My Lists->TMDb Lists. Sorting/random/other features to come. Just need to test they are working OK for everyone.
-- Due to changes in the highlight & opacity code, you will need to re-set these if you aren't using the default values.
+[COLOR red][B]Version 2.1.91[/B][/COLOR]
+- All IMDb related Extras fixed. [COLOR darkgoldenrod]Big thanks to [B]hcgiub001 (pwreit)[/B] for the code needed[/COLOR]. Clear IMDb data in Tools->Database & Cache Maintenance if Reviews/More Like This/Trivia etc is still not showing.
 - Other changes/fixes.
 
 
