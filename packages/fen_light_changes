@@ -1,5 +1,5 @@
-[COLOR red][B]Version 2.1.91[/B][/COLOR]
-- All IMDb related Extras fixed. [COLOR darkgoldenrod]Big thanks to [B]hcgiub001 (pwreit)[/B] for the code needed[/COLOR]. Clear IMDb data in Tools->Database & Cache Maintenance if Reviews/More Like This/Trivia etc is still not showing.
+[COLOR red][B]Version 2.1.92[/B][/COLOR]
+- Added Related, Similar, Reviews, Comments, Trivia, Blunders, More from Year, More from Genres, More from Networks to actions you can assign to the Extras buttons.
 - Other changes/fixes.
 
 
