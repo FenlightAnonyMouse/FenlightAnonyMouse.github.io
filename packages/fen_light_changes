@@ -1,4 +1,7 @@
-[COLOR red][B]Version 2.1.93[/B][/COLOR]
-- A few quick fixes.
+[COLOR red][B]Version 2.1.94[/B][/COLOR]
+[COLOR red]ATTENTION!! If you currently have TMDb authorized (for their lists), then this update will run, with your permission, some code to authorize you to use the v3 API of TMDb. Currently, you are authorized for the v4 API of TMDb. This is needed so that you can add/remove items to your TMDb Watchlist and TMDb Favorites List from within the addon. You can decline the automatic authorizing Fen Light will want to do after the update, however this means to use these new features you will have to revoke the authorization of TMDb in the settings and then re-authorize. It is better to let the update code do this for you. There is no need to enter any keys or visit any websites if left to the addon to do this automatically.[/COLOR]
+- Added add/remove items for TMDb Watchlist & TMDb Favorites list (as above). Access this through the TMDb Manager found in the context menu.
+- Added sorting options for TMDb Watchlist and TMDb Favorites. Sorting is limited currenlty.
+- Other changes/fixes.
 
 
